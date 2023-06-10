@@ -1,0 +1,44 @@
+{
+  "id": "4103949",
+  "name": "vue-todo",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1601874",
+      "name": "任务",
+      "font_class": "renwu",
+      "unicode": "e664",
+      "unicode_decimal": 58980
+    },
+    {
+      "icon_id": "6880922",
+      "name": "任务进程",
+      "font_class": "Mission",
+      "unicode": "4efb",
+      "unicode_decimal": 20219
+    },
+    {
+      "icon_id": "10340483",
+      "name": "日程",
+      "font_class": "richeng",
+      "unicode": "e652",
+      "unicode_decimal": 58962
+    },
+    {
+      "icon_id": "19819357",
+      "name": "Today",
+      "font_class": "Today",
+      "unicode": "e691",
+      "unicode_decimal": 59025
+    },
+    {
+      "icon_id": "10336079",
+      "name": "6563 - Bookmark",
+      "font_class": "Bookmark",
+      "unicode": "e6c8",
+      "unicode_decimal": 59080
+    }
+  ]
+}
